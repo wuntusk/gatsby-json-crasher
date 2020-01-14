@@ -1,4 +1,4 @@
-#Gatsby Json Crasher
+# Gatsby Json Crasher
 
 Repro project for gatsby develop crashing when a json file is in a directory starting with a numeric character.
 
